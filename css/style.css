@@ -1,0 +1,44 @@
+body {
+background-image: url('../img/sky.png');
+color: #FDFDFD;
+font-size: 1.5rem;
+font-family: "VT323";
+}
+
+.logo {
+  height: 60px;
+}
+
+.portrait {
+  height: 100px;
+}
+
+h2 {
+  font-size: 1.2rem;
+}
+
+.bonusmalus {
+  height: 40px;
+  margin-right: 5px;
+}
+
+.life, .pill {
+  height: 25px;
+}
+
+.col-border {
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+}
+
+.line {
+  border-top: 2px solid #fff;
+}
+
+.arrow {
+  line-height: 80%;
+}
+
+.start {
+  height: 80px;
+}
